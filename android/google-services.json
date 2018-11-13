@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123142531935",
+    "firebase_url": "https://pulsage-1525053762219.firebaseio.com",
+    "project_id": "pulsage-1525053762219",
+    "storage_bucket": "pulsage-1525053762219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123142531935:android:f827b73b3cc6072f",
+        "android_client_info": {
+          "package_name": "com.pulsage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123142531935-d5nel4ejglc03v0ahf7isdmlh84t8khq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8te7tx4AZtkSdTcyU6PUI_Svum8gZa0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
